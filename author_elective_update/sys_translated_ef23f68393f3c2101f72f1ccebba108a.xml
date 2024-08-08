@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_translated">
+    <sys_translated action="DELETE">
+        <element>name</element>
+        <id/>
+        <label>New Tab 2</label>
+        <language>en</language>
+        <name>pa_tabs</name>
+        <sys_class_name>sys_translated</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-08 11:07:45</sys_created_on>
+        <sys_id>ef23f68393f3c2101f72f1ccebba108a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Tab 2</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_translated_ef23f68393f3c2101f72f1ccebba108a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-08 11:07:45</sys_updated_on>
+        <value>5723f68393f3c2101f72f1ccebba1086New Tab 2</value>
+    </sys_translated>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>dda948251b6e79d8ba5ceb9b2d4bcb9d</instance_id>
+        <instance_name>dev213177</instance_name>
+        <name>sys_translated_ef23f68393f3c2101f72f1ccebba108a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_translated"><sys_translated action="INSERT_OR_UPDATE"><element>name</element><id/><label>New Tab 2</label><language>en</language><name>pa_tabs</name><sys_class_name>sys_translated</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-08-08 11:07:45</sys_created_on><sys_id>ef23f68393f3c2101f72f1ccebba108a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>New Tab 2</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_translated_ef23f68393f3c2101f72f1ccebba108a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-08-08 11:07:45</sys_updated_on><value>5723f68393f3c2101f72f1ccebba1086New Tab 2</value></sys_translated></record_update>]]></payload>
+        <payload_hash>1672572238</payload_hash>
+        <record_name>New Tab 2</record_name>
+        <reverted_from/>
+        <source>1ec499d293ab02101f72f1ccebba10ee</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-08 11:07:46</sys_created_on>
+        <sys_id>6f23f68393f3c2101f72f1ccebba108c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19131ac60b20000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-08 11:07:46</sys_updated_on>
+        <type>Translated Name / Field</type>
+        <update_guid>6323f68393f3c21020fb1f96e83d548c</update_guid>
+        <update_guid_history>6323f68393f3c21020fb1f96e83d548c:1672572238</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-08 11:07:50</sys_created_on>
+        <sys_db_object display_value="" name="sys_translated">sys_translated</sys_db_object>
+        <sys_id>5d1025c63cba49d1acc0d6b37c6ac441</sys_id>
+        <sys_metadata>ef23f68393f3c2101f72f1ccebba108a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Tab 2</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_translated_ef23f68393f3c2101f72f1ccebba108a</sys_update_name>
+        <sys_update_version display_value="sys_translated_ef23f68393f3c2101f72f1ccebba108a">6f23f68393f3c2101f72f1ccebba108c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-08 11:07:50</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
