@@ -4,6 +4,7 @@
             <choice>
                 <element inactive_on_update="false" label="Legal 2" sequence="5" value="legal 2"/>
                 <element inactive_on_update="false" label="Human Resources 2" sequence="1" value="hr2"/>
+                <element inactive_on_update="false" label="Other" sequence="0" value="Other"/>
                 <element inactive_on_update="false" label="IT 1" sequence="6" value="it 1"/>
                 <element inactive_on_update="false" label="Facilities 1" sequence="2" value="facilities 1"/>
                 <element inactive_on_update="false" label="IT 2" sequence="7" value="it 2"/>
